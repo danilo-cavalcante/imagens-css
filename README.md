@@ -12,5 +12,5 @@ Imagens criadas com css
 - HTML
 - CSS
 
-### Imagens
-[<img src="result/mobile.png" alt="imagens em tamanho grande">]
+### Imagens zoom
+<img src="result/mobile.png" alt="imagens em tamanho grande">
